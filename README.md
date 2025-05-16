@@ -2,7 +2,7 @@
 
 This is a basic crash course to help you learn and understand the fundamentals of Node.js. It's perfect for beginners who want to get started with backend development using JavaScript.
 
-## ✅ What You Will Learn
+## What You Will Learn
 
 - What Node.js is and how it works
 - Creating a simple server with Node.js
